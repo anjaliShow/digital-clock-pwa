@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.netlify.digitalclock_pwa.twa",
+                     "sha256_cert_fingerprints": ["F3:78:5E:0D:46:0A:9A:9C:39:66:F8:CD:F4:9C:61:1A:1A:09:56:05:97:C5:A1:A6:32:F8:D6:D9:7C:6B:EB:32"] }
+      }
+]
